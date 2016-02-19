@@ -1,0 +1,14 @@
+The selection beam allows you to analyse parts of plants. 
+There are three Selection Modes: 
+-GROWTH FORM		We will encounter plants which 
+-LEAF FORM			vary in each of these 
+-FLOWER FORM		categories in different ways. 
+
+Movement is possible in selection mode. Additionally you can press
+ <b>Q and E</b> on a keyboard or 
+ the triggers <b>L1 and R1</b> on a controller to rotate your ship.
+
+By analyzing each of the plants here you will learn about the 
+features that characterize their <b>MORPHOLOGY</b>, which helps 
+us distinguish how different plants are shaped and grow. 
+This is important for the biological work we do.

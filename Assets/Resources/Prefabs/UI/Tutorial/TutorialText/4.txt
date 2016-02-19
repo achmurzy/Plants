@@ -1,0 +1,8 @@
+The vehicle you occupy has the capacity for flight.
+Spin your mouse in very small circles on the mouse-pad, or spin the right joystick. 
+Remember, smaller circles are better! 
+The lights on your ship will turn red when you are primed for flight. 
+Keep spinning your mouse until all the lights are green.
+You must keep spinning to stay in the air.
+<b>Once you are in the air, fly up to the pylons on the hill surrounded by water.</b> 
+Use <b>Q and E</b> on a keyboard or the triggers <b>L1 and R1</b> on a controller to rotate in the air.

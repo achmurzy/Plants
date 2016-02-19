@@ -1,0 +1,2 @@
+Hold A or D to turn and look around. Hold S to rotate faster. 
+On a controller use the left thumbstick to move and turn.

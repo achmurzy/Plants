@@ -1,0 +1,8 @@
+The <color=cyan>CYAN</color> selection beam allows you to PICK UP AND MOVE plants by their base. 
+You can capture a single plant at a time by clicking its base when the selection beam is <color=red>RED</color>. 
+We need this beam to collect specimens of interest in the field when the time comes. 
+You will be asked to deliver plants of a certain description to a specific location.
+Once you have captured a plant, clicking anywhere will place the plant at that point. 
+If it is not in the specified location or the plant does not fit the description given, 
+the plant will die immediately. <b>Place the plant in the pylon collection area marked by 
+the yellow emblem nearby.</b>

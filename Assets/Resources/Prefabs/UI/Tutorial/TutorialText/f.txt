@@ -1,0 +1,14 @@
+The icon to your right is your Menu. This menu disappears and reappears by pressing P or <b>START</b> on a controller.
+
+The flower buds on the icon are <b>BUTTONS</b> that can open three windows:
+-Your current objectives and progress within them are listed in the leftmost, <color=blue>BLUE</color> button. 
+Open it by clicking or pressing <color=blue>X</color> on a controller when the menu is open.
+-A biological reference manual is contained in the top, <color=magenta>MAGENTA</color> button, 
+allowing access to all of the information you just received from selecting plant samples.
+Open it by clicking or pressing <color=magenta>SQUARE</color> on a controller when the menu is open.
+-A utilities page is in the rightmost, <color=red>RED</color> button, where you can go to the main menu, quit the game,
+or teleport to the City where our work will take place. 
+Open this menu by clicking or pressing <color=red>CIRCLE</color> on a controller when the menu is open.
+<b>When you are ready to start playing, select this button and swap scenes.</b> 
+Use <b>L2 and R2</b> if you are using a controller to select a button, 
+and press <color=blue>X</color> to select a button.

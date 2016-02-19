@@ -1,0 +1,7 @@
+Look at the water tank on the side of your vehicle.
+You've depleted all of your water.
+Your research vehicle cannot fly without stored water, 
+and we cannot complete our objective without water. 
+<b>Find a water source</b> and spin as you would to fly 
+after positioning your vehicle on the surface of the water. 
+Make sure to fill up completely.

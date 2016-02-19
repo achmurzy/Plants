@@ -1,0 +1,4 @@
+The <color=yellow>YELLOW</color> selection beam corresponds to leaf selection. 
+Remember, when the beam is <color=red>RED</color> you can select a leaf. 
+Notice the leaf icon on the upper left of the screen corresponding to this selection mode. 
+<b>Find a leaf on the plant you just grew.</b>

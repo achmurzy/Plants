@@ -1,0 +1,15 @@
+Try growing the other plants next to you. Each time select each of the three categories on the plant:
+-GROWTH FORM
+-LEAF FORM
+-FLOWER FORM
+Once a category is selected for a particular plant, it cannot be 
+selected again. Carefully read and understand the descriptions of
+parts that you select. You will need this information in the field.
+Plants must be fully grown before any selecting can be done, 
+so make sure you have water!
+
+Later you will be able to swap selection modes by pressing
+ the F key or <color=red>CIRCLE</color> on the gamepad. 
+For now, use the proper selection mode as it appears.
+
+You can always press TAB or <color=blue>X</color> to leave the selection beam mode and return to the vehicle's movement controls. 

@@ -1,0 +1,6 @@
+Compound leaves divide their surface into many
+individual leaflets. These leaflets are not leaves
+unto themselves-this is an important point, and
+requires remembering that leaves only emerge from
+nodes on branches. Instead, leaflets are substructures 
+of compound leaves and distinguish them from other leaves.

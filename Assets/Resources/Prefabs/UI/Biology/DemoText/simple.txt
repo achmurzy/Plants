@@ -1,0 +1,6 @@
+Simple leaves are simply those leaves
+which are not divided into parts. Simple
+leaves have a single photosynthetic surface,
+called a 'blade'. To really understand this
+you may need to refer to more complicated 
+leaf types for contrast.

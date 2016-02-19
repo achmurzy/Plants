@@ -1,0 +1,14 @@
+Inflorescences are a kind of flower
+structure which have multiple flowers
+branched or patterned along them. The
+entire inflorescent structure (not 
+the individual flowers) emerges from
+nodes along the branches. This is
+nearly exactly how compound leaves
+are structured, replacing leaflets
+with flowers.
+Check the description of a compound 
+leaf if this analogy is unclear.
+Understanding the location of the nodes on
+the plant is essential when you are trying to
+decide if a structure is an inflorescence

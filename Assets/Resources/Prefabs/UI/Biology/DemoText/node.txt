@@ -1,0 +1,3 @@
+Leaves, flowers and branches emerge from nodes. 
+Nodes only occur along the length of branches. 
+Look for nodes in the growth form examples.

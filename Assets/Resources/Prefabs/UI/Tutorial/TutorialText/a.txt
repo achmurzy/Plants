@@ -1,0 +1,21 @@
+Each category is analyzed according to its own selection beam. 
+GROWTH FORM has a <color=magenta>MAGENTA</color> selection beam. 
+You can always tell which selection mode you are in by the icon in 
+the upper left corner. The tree icon indicates you are selecting 
+GROWTH FORM. The selection beam will turn 
+<color=red>RED</color> when you can click a plant for analysis.
+GROWTH FORM describes how the plant is organized, 
+usually in terms of how the branches and leaves relate to the 
+general structure of the plant. 
+<b>Always click on the base node where the plant grew from when 
+you want to analyze GROWTH FORM.</b> If you are using a controller, 
+try pressing <color=magenta>SQUARE</color> when the selection beam is <color=red>RED</color>.
+
+The most important part of the plant identification we are doing here are <color=green>NODES</color>.
+Nodes are imaginary objects that botanists say mark the spot where 
+a branch comes out of another branch. Usually branches between 
+nodes are called <color=green>INTERNODES</color>. Nodes are also 
+the places where leaves and flowers emerge from branches. 
+<b>Find a <color=green>NODE</color> on the plant before you.</b>
+Remember, <color=green>NODES</color> can only be selected when your
+ship has a <color=magenta>MAGENTA</color> selection beam. 

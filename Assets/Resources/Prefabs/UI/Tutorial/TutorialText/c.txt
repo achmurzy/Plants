@@ -1,0 +1,4 @@
+The flower selection beam is <b>WHITE</b>. 
+Witness the flower icon in the upper left of the screen corresponding to this selection mode. 
+You can select flowers when the beam turns <color=red>RED</color>. 
+<b>Find a flower on the plant you just grew.</b>

@@ -1,0 +1,10 @@
+Flowers can be classified by drawing
+imaginary lines across their faces.
+Flowers are zygomorphic when they
+have only one line of symmetry. That
+is, we can divide them only one way
+to create two equal halves; the results 
+are mirror images of each other. Think
+of the way a five-pointed star looks,
+and in which ways you can cut it to
+create symmetrical halves.

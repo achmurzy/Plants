@@ -1,0 +1,4 @@
+Exactly the opposite of monopodial growth, sympodial growth
+forms have branches which terminate. This means each branch
+separates or diverges into two or more distinct branches.
+As usual, this occurs only at nodes along the branches.

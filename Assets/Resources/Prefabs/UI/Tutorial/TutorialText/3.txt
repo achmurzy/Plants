@@ -1,0 +1,6 @@
+Holding W moves the vehicle forward in the direction it faces. 
+You can still rotate with A and D while moving.
+S is a brake. It is the fastest way of turning.
+Use the left thumbstick on a controller to move around.
+
+<b>Move your ship into the center of the white pylons ahead.</b>

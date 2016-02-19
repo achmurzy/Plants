@@ -1,0 +1,8 @@
+Flowers can be classified by drawing
+imaginary lines across their faces.
+Flowers are actinomorphic when more than
+one line can be drawn through
+their center which result in two equal
+(symmetrical) halves. Try this with a
+circle-we can compare it to the way
+we slice a pie as well.
